@@ -82,9 +82,9 @@ Thread1 locked resourse r1
 
 Thread2 locked resourse r2
 
-Thread1 waiting for resourse r2
+Thread1 waiting for resource r2
 
-Thread2 waiting for resourse r1
+Thread2 waiting for resource r1
 
 
 
