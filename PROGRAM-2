@@ -4,7 +4,7 @@ class bin{
 Scanner sc=new Scanner(System.in);
 public void convert()
 {	int n,rem,b=0,i=1;
-	System.out.println("ENTER THE DECIMAL VALUE:");
+	System.out.println("ENTER THE DECIMAL NUMBER:");
 		n=sc.nextInt();
 	while(n!=0)
 	{
@@ -14,8 +14,9 @@ public void convert()
 	i=i*10;
 	}
 
-System.out.println("THE BINARY VALUE OF GIVEN NUMBER IS:"+b);
+System.out.println("THE BINARY FORM OF GIVEN NUMBER IS:"+b);
 }
+
 }
 
 
