@@ -42,7 +42,7 @@ THE BINARY FORM OF GIVEN NUMBER IS: 1101
 # PROGRAM-03:JAVA PROGRAM TO CKECK WHETHER GIVEN NUMBER IS ARMSTRONG.
 
 
-SAMPLE INPUT EXAMPLE 01:
+SAMPLE INPUT EXAMPLE  1:
 
 INPUT:
 
@@ -53,7 +53,7 @@ OUTPUT:
 ENTERED NUMBER IS ARMSTRONG NUMBER
 
 
-SAMPLE INPUT EXAMPLE 01:
+SAMPLE INPUT EXAMPLE  2:
 
 INPUT:
 
@@ -79,11 +79,8 @@ java.lang.ArrayIndexOutOfBoundsException: 6
 SAMPLE OUTPUT:
 
 Thread1 locked resourse r1
-
 Thread2 locked resourse r2
-
 Thread1 waiting for resourse r2
-
 Thread2 waiting for resourse r1
 
 
