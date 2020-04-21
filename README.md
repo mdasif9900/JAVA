@@ -78,9 +78,9 @@ java.lang.ArrayIndexOutOfBoundsException: 6
 
 OUTPUT:
 
-Thread1 locked resourse r1
+Thread1 locked resource r1
 
-Thread2 locked resourse r2
+Thread2 locked resource r2
 
 Thread1 waiting for resource r2
 
