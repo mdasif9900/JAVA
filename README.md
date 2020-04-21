@@ -76,11 +76,14 @@ java.lang.ArrayIndexOutOfBoundsException: 6
 
 # PROGRAM-05: JAVA PROGRAM TO CREATE DEADLOCK BETWEEN 2 THREADS.
 
-SAMPLE OUTPUT:
+OUTPUT:
 
 Thread1 locked resourse r1
+
 Thread2 locked resourse r2
+
 Thread1 waiting for resourse r2
+
 Thread2 waiting for resourse r1
 
 
