@@ -7,10 +7,10 @@ Scanner s=new Scanner(System.in);
 public void interest(){
 System.out.println("ENTER THE PRINCIPAL VALUE:");
 p=s.nextInt();
-System.out.println("ENTER THE RATE OF INTEREST:");
+System.out.println("ENTER THE RATE OF INTEREST PER ANNUM:");
 r=s.nextFloat();
 r=r/100;
-System.out.println("ENTER THE PERIOD");
+System.out.println("ENTER THE PERIOD:");
 n=s.nextFloat();
 c=p*(Math.pow((1+r),n));
 
